@@ -1,0 +1,28 @@
+/* Home pge size start */
+
+.main-home {
+  background: linear-gradient( #0E0A2A, #5b199c38), url('../../images/bg.jpg');
+  min-height: 650px;
+  width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.card-container {
+  margin-top: 150px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  place-items: center center;
+  grid-gap: 5px;
+}
+
+@media (max-width: 480px) {
+  .card-container {
+    margin-top: 50px;
+    grid-template-columns: 1fr;
+    grid-gap: 50px;
+  }
+}
+
+/* Home pge size End */

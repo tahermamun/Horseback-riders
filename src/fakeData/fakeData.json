@@ -1,0 +1,115 @@
+
+[
+    {
+        "id": 0,
+        "transportName": "Bike",
+        "picture": "https://i.ibb.co/QjSkjsC/bike1.png",
+        "ticketItems": [
+            {
+                "transportTypeId": 1,
+                "transportType": "Bike",
+                "transportTypeImg": "https://i.ibb.co/QjSkjsC/bike1.png",
+                "totalSit": 4,
+                "price": 40
+            },
+            {
+                "transportTypeId": 2,
+                "transportType": "Bike",
+                "transportTypeImg": "https://i.ibb.co/QjSkjsC/bike1.png",
+                "totalSit": 4,
+                "price": 40
+            },
+            {
+                "transportTypeId": 3,
+                "transportType": "Bike",
+                "transportTypeImg": "https://i.ibb.co/QjSkjsC/bike1.png",
+                "totalSit": 4,
+                "price": 40
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "transportName": "Car",
+        "picture": "https://i.ibb.co/myhJDg1/car1.png",
+        "ticketItems": [
+            {
+                "transportTypeId": 1,
+                "transportType": "Car",
+                "transportTypeImg": "https://i.ibb.co/myhJDg1/car1.png",
+                "totalSit": 4,
+                "price": 40
+            },
+            {
+                "transportTypeId": 2,
+                "transportType": "Car",
+                "transportTypeImg": "https://i.ibb.co/myhJDg1/car1.png",
+                "totalSit": 4,
+                "price": 40
+            },
+            {
+                "transportTypeId": 3,
+                "transportType": "Car",
+                "transportTypeImg": "https://i.ibb.co/myhJDg1/car1.png",
+                "totalSit": 4,
+                "price": 40
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "transportName": "Bus",
+        "picture": "https://i.ibb.co/SP719Qr/bus1.png",
+        "ticketItems": [
+            {
+                "transportTypeId": 1,
+                "transportType": "Bus",
+                "transportTypeImg": "https://i.ibb.co/SP719Qr/bus1.png",
+                "totalSit": 4,
+                "price": 40
+            },
+            {
+                "transportTypeId": 2,
+                "transportType": "Bus",
+                "transportTypeImg": "https://i.ibb.co/SP719Qr/bus1.png",
+                "totalSit": 4,
+                "price": 40
+            },
+            {
+                "transportTypeId": 3,
+                "transportType": "Bus",
+                "transportTypeImg": "https://i.ibb.co/SP719Qr/bus1.png",
+                "totalSit": 4,
+                "price": 40
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "transportName": "Train",
+        "picture": "https://i.ibb.co/b1MhS48/train1.png",
+        "ticketItems": [
+            {
+                "transportTypeId": 1,
+                "transportType": "Train",
+                "transportTypeImg": "https://i.ibb.co/b1MhS48/train1.png",
+                "totalSit": 4,
+                "price": 40
+            },
+            {
+                "transportTypeId": 2,
+                "transportType": "Train",
+                "transportTypeImg": "https://i.ibb.co/b1MhS48/train1.png",
+                "totalSit": 4,
+                "price": 40
+            },
+            {
+                "transportTypeId": 3,
+                "transportType": "Train",
+                "transportTypeImg": "https://i.ibb.co/b1MhS48/train1.png",
+                "totalSit": 4,
+                "price": 40
+            }
+        ]
+    }
+]

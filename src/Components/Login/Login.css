@@ -1,0 +1,125 @@
+body {
+    background: #fbf3ff;
+}
+
+/* Login Card Style Start */
+
+.login-card {
+    background: #fff;
+    border-radius: 25px;
+    height: 100%;
+    margin-top: 50px;
+    padding: 25px;
+    box-shadow: 0px 10px 40px -10px #000000b3;
+    width: 50%;
+}
+
+.login-card h2 {
+    color: #8a2be2;
+    font-size: 24px;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.login-card .myInput {
+    width: 90%;
+    border-radius: 25px;
+    padding: 10px;
+    padding-left: 50px;
+    border: none;
+    box-shadow: 0px 10px 49px -14px #000000b3;
+}
+
+.login-card .myInput:focus {
+    outline: none;
+}
+
+.login-card .login-btn {
+    background: linear-gradient(45deg, #bb36fd, #9b00e8);
+    color: #fff;
+    width: 90%;
+    border: none;
+    border-radius: 25px;
+    padding: 10px;
+    box-shadow: 0px 10px 41px -11px #000000b3;
+}
+
+.login-card .login-btn:hover {
+    background: linear-gradient(45deg, #c85bff, #b726ff);
+}
+
+.login-card .login-btn:focus {
+    outline: none;
+}
+
+/* Login Card Style End */
+
+/* or label section style start */
+
+.or-container {
+    align-items: center;
+    color: #ccc;
+    display: flex;
+    margin: 25px 40%;
+}
+
+.line-separator {
+    background-color: #ccc;
+    flex-grow: 5;
+    height: 1px;
+    width: 10px;
+}
+
+.or-label {
+    flex-grow: 1;
+    margin: 0 5px;
+    text-align: center
+}
+
+/* or label section style End */
+
+/* Google Button Style Start */
+
+.google-btn {
+    background: linear-gradient(45deg, #bb36fd, #9b00e8);
+    color: #fff;
+    width: 38%;
+    font-size: 15px;
+    border: none;
+    border-radius: 25px;
+    padding: 10px;
+    box-shadow: 0px 10px 41px -11px #000000b3;
+}
+
+.google-btn .google-btn-img {
+    padding-right: 20px;
+    width: 50px;
+}
+
+/* Google Button Style End */
+
+/*Login Page Media query for mobile responsive start*/
+
+@media (max-width: 480px) {
+    .login-card {
+        padding: 10px;
+        width: 80%;
+    }
+    .login-card h2 {
+        font-size: 18px;
+    }
+    .login-card .myInput {
+        padding-left: 20px;
+    }
+    .or-container {
+        margin: 20px;
+    }
+    .google-btn {
+        width: 70%;
+    }
+    .google-btn .google-btn-img {
+        padding-right: 5px;
+    }
+}
+
+/* Login page Media query for mobile responsive end  */
