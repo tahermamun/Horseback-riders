@@ -1,8 +1,7 @@
 # Horseback riders
-#### This is a simple Horseback riders website here I tried to put 4 different types of transport for user.
+This is a React JS Based Application.
 
 # Live Website Link: 
-#### https://assignment-09-react-auth.web.app
 [Horseback riders](https://assignment-09-react-auth.web.app)
 
 ## Horseback riders Website Using
@@ -32,6 +31,3 @@
 
 # Developer-Comment: 
 This website is very awesome and fully colour matched with every element. User Authentication is very secure. Easy to navigate. This website is Mobile and Desktop responsive.
-
-
-# react-auth-tahermamun
